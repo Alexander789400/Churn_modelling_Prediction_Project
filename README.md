@@ -1,5 +1,5 @@
 # Churn_modelling_Project
-# Ml Model
+# ML Model
 # [Kaggle Dataset Source Link](https://www.kaggle.com/datasets/shubh0799/churn-modelling)
 The dataset is the details of the Employees in a company.
 The column are about it's estimated salary, age, sex, etc. Aiming to provide all details about an employee.
